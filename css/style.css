@@ -1,0 +1,256 @@
+
+
+
+@media screen and (max-width: 599px){
+	.container{
+
+		margin-top: 65%;
+	}
+}
+
+@media screen and (min-width: 600px){
+	.container{
+
+		margin-top: 40%;
+	}
+}
+
+
+
+@media only screen and (min-width: 768px){
+	.container{
+
+		margin-top: 20%;
+	
+	}
+
+
+ .header{
+     
+
+    flex-direction: row;
+ 	background-color:  #333333;
+ 	position: relative;
+ }
+
+ .menu-opcoes{
+
+    position: absolute;
+    right: 5%;
+    top: 45%;    
+
+
+ }
+
+.menu-opcoes ul li{
+
+	display: inline;
+	margin-left: 1px;
+
+
+}
+
+
+
+
+
+
+
+}
+
+
+html{
+
+ scroll-behavior: smooth;
+
+}
+
+
+body{
+
+
+margin: 0;
+
+}
+
+
+
+header{
+	text-align: center;
+	
+}
+
+
+
+
+.fixo{
+
+position: fixed;
+top: 0;
+right: 0;
+left: 0;
+z-index: 1030;
+
+}
+
+
+
+
+
+.menu-opcoes{
+
+	text-align: center;
+}
+
+
+
+
+ .yuta{
+
+background-color: #000000;
+color: white;
+padding: 1%;
+position: relative;
+display: flex;
+flex-direction: column;
+align-items: center;
+font-size: 1.5em;
+line-height: 1.5;
+
+	
+
+
+}
+
+
+
+.contato{
+
+color: blue;
+font-size: 25px;	
+
+
+}
+
+
+
+.face{
+
+
+border: 4px dashed #fff;
+  width: 25%;
+
+
+
+}
+
+
+
+
+
+
+
+.imgtexto{
+
+  border: 4px dashed #fff;
+  width: 50%;
+
+}
+
+.conterner{
+
+
+    margin-top: 36%;
+	width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	
+	
+ 
+
+}
+
+
+
+.ajuste{
+
+   line-height: 1;
+   text-align: center;
+
+
+}
+
+
+.ajuste li:hover{
+
+background-color: #737373;
+color: blue;
+
+
+}
+
+
+
+
+
+
+.imglogo{
+
+width: 100%;
+
+}
+
+
+
+
+
+.imgtext{
+
+border: 5px dashed #fff;
+  width: 60%;
+
+
+}
+
+
+.imghtm{
+
+border: 5px dashed #fff;
+  width: 60%;
+
+
+}
+
+
+
+
+
+ol, ul{
+
+list-style: none;
+text-decoration: none;
+
+
+}
+
+ul li, ol li{
+
+    
+    color: #ffffff;
+    font-weight: bolder;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 1em;
+    
+
+}
+
+.imgtextr{
+
+border: 5px dashed #fff;
+  width: 60%;
+
+}
+
+
